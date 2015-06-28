@@ -1,6 +1,6 @@
 {
-    "name": "gaston/SelectBundle",
-    "description": "A short description of what your package does",
+    "name": "gastonnina/select-bundle",
+    "description": "A simple select2 field into Symfony2",
     "require": {
         "php": ">=5.3.0"
     }
