@@ -1,7 +1,19 @@
 {
     "name": "gastonnina/select-bundle",
+    "type": "symfony-bundle",
     "description": "A simple select2 field into Symfony2",
     "require": {
         "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "Gaston Nina",
+            "email": "gastonnina@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Gaston\\Bundle\\SelectBundle": ""
+        }
     }
 }
