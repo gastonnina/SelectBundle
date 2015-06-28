@@ -33,7 +33,7 @@ class AppKernel extends Kernel
         $bundles = array(
             // ...
 
-            new Gaston\Bundle\GastonSelectBundle(),
+            new Gaston\Bundle\SelectBundle\GastonSelectBundle(),
         );
 
         // ...
